@@ -1,0 +1,79 @@
+A:hover {
+	color: Fuchsia;
+}
+
+BODY {
+	font-family : "Times New Roman";
+	font-size : 11pt;
+}
+.
+BANNER_TABLE { 
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 95%;
+}
+
+.FACTSHEETFONT { 
+	font-size : 10pt;
+}
+.BOTTOMBAR {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 90%;
+}	    
+
+.PARTYLISTSTAT { 
+	font-size : 10pt;
+ }
+
+.BREAKDOWNSTAT { 
+	font-size: 10pt;
+ } 
+ 
+.COPYRIGHT {
+	font-size : 10pt;
+	font-family : serif;
+	text-align : center;
+	font-style : italic;
+}
+
+H2.HIGHLIGHTS {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11pt;
+	text-align : center;
+	color : #990033;
+}
+
+H2.INDPROFILE {
+	font-weight : bold;
+	font-variant : normal;
+	font-family : "Times New Roman";
+	font-size : 16pt;
+	color : #990033;	
+}
+
+.BROWSEBOXFONT {
+	font-size : 9pt;
+}
+
+.BROWSEBOXHEADER {
+	font-size : 10pt;
+	font-weight : bold;
+	text-align : left;
+}
+
+.RIGHTBOXFONT {
+	font-size : 9pt;
+}
+
+.LISTBOXFONT { 
+	font-size: 11pt;
+ }
+ 
+ .VOTERDETAIL { 
+ 	font-size: 11pt;
+  }
+  
+  .ADPAIDBY {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size : 12pt;
+	color : Gray;
+}

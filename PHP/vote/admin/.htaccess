@@ -1,0 +1,6 @@
+AuthUserFile /home/vote/.htpasswd
+AuthName VoteAdmin
+AuthType Basic
+<Limit GET POST>
+require user walto
+</Limit>

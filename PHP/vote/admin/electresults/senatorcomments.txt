@@ -1,0 +1,49 @@
+This form is meant to provide audit trail. Enter name, date, time of update.
+
+Buster 1:32 5/18/01 parser
+
+Wash corrected the entry for Gringo Honasan because of the many feedback I got from e-mails - May 18, 2001 12:08 noon. 
+
+Wash via parser 5/18/2001 8:53 pm entered Namfrel update 5/18/2001 16:10 H 
+
+Wash via parser 5/19/2001 8:01 am entered Namfrel update 5/19/2001 1:08 H, Comelec update as of 5/18/2001 5:15 pm taken from inq7.net
+
+Buster 5/19/2001 11:25 pm entered via parser
+
+Dondi 5/20 manual
+
+Buster 5/20/01 18:13 pm manual
+
+Dondi 5/20 21:54 manual
+
+Washington 5/21 1054 a parser
+
+Buster 5/22/01 12:05 pm parser Comelec
+
+Washington 5/23 1:30 pm parser Comelec
+
+Buster 5/23/01 5:50 pm parser Namfrel & Comelec
+
+Washington 5/23/01 6:12 pm parser Namfrel
+
+Washington 5/23/01 10:22 pm parser Comelec
+
+Buster 5/24/01 4:17 pm parser Comelec
+
+Buster 5/24/01 11:50 pm parser Namfrel, Comelec
+
+Buster 5/25/01 3:00 pm parser Comelec
+
+Washington 5/27/01 8:37 am parser Comelec Namfrel
+
+Buster 5/28/01 4:46 pm parser Comelec
+
+Buster 5/29/01 8:41 am parser Comelec
+
+Buster 5/30/01 11:30 am parser Comelec
+
+Buster 5/31/01 8:56 am parser Comelec
+
+Washington 6/1/01 7:45 am parser Comelec
+
+Buster 6/1/01 1:56 pm parser Comelec
