@@ -10,7 +10,7 @@ You can see what was written about vote.ph also from the below wayback links:
 * [https://web.archive.org/web/20020123212519/http://www.cmfr.com.ph/pjr/2001/200106/0106net.html](https://web.archive.org/web/20020123212519/http://www.cmfr.com.ph/pjr/2001/200106/0106net.html)
 
 ## PHP
-This contains the complete PHP files for vote.ph
+This [folder](PHP) contains the complete PHP files for vote.ph
 
 ## MySQL
-This contains MySQL backup of vote.ph in SQL language
+This [folder](MySQL) contains MySQL backup of vote.ph in SQL language
